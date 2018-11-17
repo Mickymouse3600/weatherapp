@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">What\'s the Weather</string>
+    <string name="what_s_the_weather">What\'s the Weather?</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="todo">TODO</string>
+    <string name="please_enter_the_city">Please Enter the City</string>
+</resources>
